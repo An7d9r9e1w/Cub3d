@@ -9,9 +9,9 @@ The file has next structure:
 3. Map
 
 Move: WASD
-Rotate: :arrow_left, :arrow_right
+Rotate: :arrow_left:, :arrow_right:
 
-![Alt-текст](https://drive.google.com/file/d/1ipYXAilzb9WGhUJy611ZCphDSa15DlIK/view?usp=sharing "Cub3D")
+![Alt-текст](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecord.gif "Cub3D")
 
 ### Extended version
 Features:
