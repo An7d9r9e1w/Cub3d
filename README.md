@@ -8,16 +8,22 @@ The file has next structure:
 2. RGB-color codes for ceiling and floor
 3. Map
 
-Move: WASD
-Rotate: :arrow_left:, :arrow_right:
+Controls:
+- Move: WASD
+- Rotate: :arrow_left:, :arrow_right:
 
 ![Alt-текст](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecord.gif "Cub3D")
 
 ### Extended version
 Features:
-1. Distance dependent shadows.
-2. Animated sprites.
-3. Doors.
+1. Walls collision.
+2. Distance dependent shadows.
+3. Animated sprites.
+4. Doors.
+5. Minimap.
 
-Move: WASD
-Rotate: mouse
+Conrols:
+- Move: WASD
+- Rotate: mouse
+
+![Alt-текст](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecordBonus.gif "Cub3D")
