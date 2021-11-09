@@ -11,6 +11,8 @@ The file has next structure:
 Move: WASD
 Rotate: :arrow_left, :arrow_right
 
+![Alt-текст](https://drive.google.com/file/d/1ipYXAilzb9WGhUJy611ZCphDSa15DlIK/view?usp=sharing "Cub3D")
+
 ### Extended version
 Features:
 1. Distance dependent shadows.
