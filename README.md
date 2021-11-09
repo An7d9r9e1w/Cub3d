@@ -12,7 +12,7 @@ Controls:
 - Move: WASD
 - Rotate: :arrow_left:, :arrow_right:
 
-![Alt-текст](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecord.gif "Cub3D")
+![Cub3D](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecord.gif "Cub3D")
 
 ### Extended version
 Features:
@@ -26,4 +26,4 @@ Conrols:
 - Move: WASD
 - Rotate: mouse
 
-![Alt-текст](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecordBonus.gif "Cub3D")
+![Cub3D](https://github.com/An7d9r9e1w/Files-pool/blob/main/CubRecordBonus.gif "Cub3D")
